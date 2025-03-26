@@ -20,6 +20,10 @@ Let's connect and create something amazing! 🚀
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### Now Playing 🎵
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/oxl57aay7xsjaiie8zmwz32q8)
+
+
 <!-- # 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/> -->
