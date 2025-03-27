@@ -3,9 +3,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-Hi! I'm a passionate content creator, entrepreneur, and tech enthusiast currently pursuing an MNC degree at IIT Roorkee. I run a YouTube channel where I share travel vlogs, educational content, motivational insights, business strategies, and web development tips.
+Hi! I'm a passionate content creator, entrepreneur, and tech enthusiast currently pursuing an MNC degree at IIT Roorkee.
 
-Beyond content creation, I'm deeply interested in the world of Direct-to-Consumer (D2C) business and the potential of AI in content generation. One of my key projects is developing an AI model that can create engaging Instagram Reels. I love exploring new ideas, building innovative solutions, and sharing knowledge to inspire others.
+I'm deeply interested in the world of Direct-to-Consumer (D2C) business and the potential of AI in content generation. One of my key projects is developing an AI model that can create engaging Instagram Reels. I love exploring new ideas, building innovative solutions, and sharing knowledge to inspire others.
 
 Let's connect and create something amazing! 🚀
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
