@@ -34,8 +34,8 @@ Let's connect and create something amazing! 🚀
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaKumar28&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eyescratcher22&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
