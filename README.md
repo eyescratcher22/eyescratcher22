@@ -29,8 +29,7 @@ Let's connect and create something amazing! 🚀
 
  # 📊 GitHub Stats: -->
  ![](https://github-readme-stats.vercel.app/api?username=eyescratcher22&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=eyescratcher22&theme=react&hide_border=false)<br/> 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyescratcher22&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> 
+
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
