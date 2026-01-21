@@ -5,7 +5,7 @@
 # 💫 About Me:
 Hi! I'm a passionate content creator, entrepreneur, and tech enthusiast currently pursuing an MNC degree at IIT Roorkee.
 
-I'm deeply interested in the world of Direct-to-Consumer (D2C) business and the potential of AI in content generation. One of my key projects is developing an AI model that can create engaging Instagram Reels. I love exploring new ideas, building innovative solutions, and sharing knowledge to inspire others.
+I'm deeply interested in the world of Direct-to-Consumer (D2C) business and the potential of AI in content generation. I love exploring new ideas, building innovative solutions, and sharing knowledge to inspire others.
 
 Let's connect and create something amazing! 🚀
 ![](https://komarev.com/ghpvc/?username=eyescratcher22&color=447ff7&label=Visitor+count)
