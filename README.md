@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-Hi! I'm a passionate content creator, entrepreneur, and tech enthusiast currently pursuing an MNC degree at IIT Roorkee.
+Hi! I'm a passionate developer,designer and tech enthusiast currently pursuing an MNC degree at *IIT Roorkee*.
 react me out: email: amitesh_s@ma.iitr.ac.in
 I'm deeply interested in the world of Direct-to-Consumer (D2C) business and the potential of AI in content generation. I love exploring new ideas, building innovative solutions, and sharing knowledge to inspire others.
 
